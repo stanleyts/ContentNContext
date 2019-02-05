@@ -1,5 +1,6 @@
 # ContentNContext
-Source Code
+Source Code for the AAAI-18 paper titled [*''Content and Context: Two-Pronged Bootstrapped Learning for Regex-Formatted Entity Extraction''*](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16894)
+
 
 The source code will be available shortly!
 Thanks for being patient! :)
